@@ -6,7 +6,9 @@
  ************************************************************************/
 
 #include<stdio.h>
-int main()
+
+int main(int argc, const char *argv[])
 {
-	int a = 0;
+	printf("nihao");
+	return 0;
 }
